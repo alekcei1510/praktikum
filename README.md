@@ -9,7 +9,7 @@ Test tasks for proffesional skills
 - The solutions of each tasks are in the folder notebooks, each one numerated with the corresponding task.
 
 ### Second Part
-- On going
+- On the folder project (READY TO CHECK)
 
 
 ## Environment
